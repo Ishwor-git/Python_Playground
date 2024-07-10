@@ -34,18 +34,25 @@ Explore the existing projects and feel free to add your own!
 
 ## How to Contribute
 
-We welcome contributions from everyone! Here’s how you can do it: 1. Fork the repository 2. Create a new branch: git checkout -b my-new-feature 3. Commit your changes: git commit -am 'Add some feature' 4. Push to the branch: git push origin my-new-feature 5. Submit a pull request
+We welcome contributions from everyone! Here’s how you can do it:
+
+1. Fork the repository
+2. Create a new branch: git checkout -b my-new-feature
+3. Commit your changes: git commit -am 'Add some feature'
+4. Push to the branch: git push origin my-new-feature
+5. Submit a pull request
 
 ### Contribution Guidelines
 
-    1. Ensure your project is unique and not already present in the repository.
-    2. Provide a README.md in your project folder with a brief description and instructions on how     to run your project.
-    3. Follow Python coding standards and best practices.
-    4. Be respectful and considerate in your communications and code reviews.
-    5. Submit PR with only new project. Do not improvise previous projects and do not submit changes in any existing files( ie. README.md) or folder structure.
+1. Ensure your project is unique and not already present in the repository.
+2. Provide a README.md in your project folder with a brief description and instructions on how to run your project.
+3. Follow Python coding standards and best practices.
+4. Be respectful and considerate in your communications and code reviews.
+5. Submit PR with only new project. Do not improvise previous projects and do not submit changes in any existing files( ie. README.md) or folder structure.
 
 ## Project Structure
 
+```
 PythonPlayground/
 ├── Projects/
 | |
@@ -70,5 +77,6 @@ PythonPlayground/
 | | |-- ...
 | |-- ...
 └── README.md
+```
 
 Happy Coding !
