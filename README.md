@@ -24,8 +24,9 @@ Explore the existing projects and feel free to add your own!
 
 ### Projects :
 
-| Project Name | Contributor | Description |
-| ------------ | ----------- | ----------- |
+| Project Name                                                                                 | Contributor                                 | Description                                                  |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------ |
+| [Hello World](https://github.com/Ishwor-git/Python_Playground/tree/main/Projects/HelloWorld) | [Ishwor-git](https://github.com/Ishwor-git) | basic hello world program that bruteforce itself into screen |
 
 ### Scripts :
 
