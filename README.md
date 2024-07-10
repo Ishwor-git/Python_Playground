@@ -32,6 +32,7 @@ Explore the existing projects and feel free to add your own!
 
 | Script Name | Contributor | Description |
 | ----------- | ----------- | ----------- |
+|[ImagCon](https://github.com/tensor-ioe/Python_Playground/tree/main/Scripts/ImagCon) | [Ishwor-git](https://github.com/Ishwor-git) | A simple script made using PIL library that converts images from one type to another |
 
 ## How to Contribute
 
